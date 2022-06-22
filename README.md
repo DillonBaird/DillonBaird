@@ -9,16 +9,17 @@
 
 - 🚀 Recently finished working on [MUTANTdragon](https://MUTANTdragon.space)
 
-- 👨‍💻 All of my projects are available at [DillonBaird.io](DillonBaird.io)
+- 👨‍💻 All of my projects are available at [DillonBaird.io](https://DillonBaird.io)
 
 - 📝 I regularly write articles on Technology, UI/UX, Aerospace, Oceanography, Boating
 
 - 📫 How to reach me **dillonbaird@outlook.com**
 
-- ⚡ Fun fact **I live and develop full-time onboard my boat, M/Y Antigua.**
+- ⚡ Fun fact **I live and develop full-time onboard my boat, [M/Y Antigua](https://motoryachtantigua.com).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/dillon-baird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dillon-baird" height="30" width="40" /></a>
 <a href="https://twitter.com/dillonmbaird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dillonmbaird" height="30" width="40" /></a>
 <a href="https://medium.com/@dillonbaird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dillonbaird" height="30" width="40" /></a>
 </p>
