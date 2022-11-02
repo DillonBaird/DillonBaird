@@ -16,14 +16,14 @@
 - 📫 How to reach me **dillonbaird@outlook.com**
 
 - ⚡ Fun fact **I live and develop full-time onboard my boat, [M/Y Antigua](https://motoryachtantigua.com).**
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dillon-baird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dillon-baird" height="30" width="40" /></a>
 <a href="https://twitter.com/dillonmbaird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dillonmbaird" height="30" width="40" /></a>
 <a href="https://medium.com/@dillonbaird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dillonbaird" height="30" width="40" /></a>
 </p>
-
+<br/>
 <h3 align="left">Languages, Frameworks and Tools Experience:</h3>
 <p><img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&amp;logo=teamcity&amp;logoColor=white" alt="TeamCity">
 <img src="https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&amp;logo=octopusdeploy&amp;logoColor=white" alt="Octopus Deploy">
@@ -81,4 +81,6 @@
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
 <img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&amp;logo=subversion&amp;logoColor=white" alt="Apache Subversion"></p>
 
+<br>
+<h4>Stats:</h4>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dillonbaird&theme=dark" alt="dillonbaird" /></p>
