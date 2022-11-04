@@ -94,8 +94,8 @@
   <img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&amp;logo=subversion&amp;logoColor=white" alt="Apache Subversion"></p>
 
 <br/>
-<h2>My Github Stats</h2>
-<div align="center">
+<h2>My Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<div align="center"><br/>
 
 <img alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 <br/><br/>
