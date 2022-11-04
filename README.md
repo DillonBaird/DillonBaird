@@ -20,7 +20,7 @@
 
 <p>Believer in agile software development, teamwork and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Steadily growing in people management and recently have gotten into WebAssembly.</p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DillonBaird/DillonBaird/master/Operating_system_rafiki_1.gif" width="360px" style="position: relative; top:50px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DillonBaird/DillonBaird/master/Operating_system_rafiki_1.gif" width="360px"/>
 
 <h2 align="left">More About Me</h2>
 
@@ -34,8 +34,7 @@
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/operating-system/rafiki) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dillon-baird)
-- ⚡ &nbsp; Fun fact **I work and develop full-time onboard my boat [M/Y Antigua](https://motoryachtantigua.com)**
-<br />
+- ⚡ &nbsp; Fun fact **I work full-time onboard my boat [M/Y Antigua](https://motoryachtantigua.com)**
 <br />
 <h2 align="left">Languages, Frameworks and Tools</h2>
 <p><img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&amp;logo=teamcity&amp;logoColor=white" alt="TeamCity">
