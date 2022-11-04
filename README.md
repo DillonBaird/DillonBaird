@@ -26,15 +26,16 @@
 
 <br />
 
-- 🔭 &nbsp; I’m currently working as Lead Software Engineer at [Inbrace](https://Inbrace.com)
-- 🚀 &nbsp; Recently finished working on [MUTANTdragon](https://MUTANTdragon.space)
-- 🌱 &nbsp; I’m currently learning WebAssembly
-- 👨🏻‍💻 &nbsp; All of my projects are available at [DillonBaird.io](https://DillonBaird.io)
-- 📝 &nbsp; I write articles on Technology, UI/UX, Aerospace, and Boating
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/operating-system/rafiki) and Figma I made 👉
+- 😄 &nbsp; My Pronouns: He/Him
+- 🔭 &nbsp; I’m currently working as: Lead Software Engineer at [Inbrace](https://Inbrace.com)
+- 🚀 &nbsp; Recently finished working on: [MUTANTdragon](https://MUTANTdragon.space)
+- 🌱 &nbsp; I’m currently learning: WebAssembly
+- 👨🏻‍💻 &nbsp; All of my projects are available at: [DillonBaird.io](https://DillonBaird.io)
+- 📝 &nbsp; I write articles on: Technology, UI/UX, Aerospace, and Boating
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/operating-system/rafiki) and Figma I made: 👉
+- ⚡ &nbsp; Fun fact: **I work full-time onboard my boat [M/Y Antigua](https://motoryachtantigua.com)**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dillon-baird)
-- ⚡ &nbsp; Fun fact **I work full-time onboard my boat [M/Y Antigua](https://motoryachtantigua.com)**
 <br />
 <h2 align="left">Languages, Frameworks and Tools</h2>
 <p><img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&amp;logo=teamcity&amp;logoColor=white" alt="TeamCity">
