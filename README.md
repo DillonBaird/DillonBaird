@@ -14,13 +14,13 @@
 </p>
 
 <hr/>
-<p>15+ years of professional experience as a <b>full-stack software developer</b> across many differing industries.</p>
+<p>15+ years of professional experience as a <b>full-stack software engineer</b> across many differing industries.</p>
 
-<p>Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Easily adapt to different hats (Lead, Full Stack Developer, UI/UX Designer, Systems Architect, QA Engineer, and much more) depending on what the project requires. I love <b>exploring new tech</b> and leveraging it to <b>build awesome things.</b></p>
+<p>Enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.</p>
 
-<p>Believer in <b>agile</b> software development, <b>teamwork</b> and <b>clean code</b>. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Steadily growing in people <b>management</b> and recently have gotten into WebAssembly.</p>
+<p>Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Easily adapt to different hats (Lead, Full Stack Developer, UI/UX Designer, Systems Architect, QA Engineer, and much more) depending on what the project requires. I love exploring new tech and leveraging it to build awesome things.</p>
 
-<p>I love open source. I am not a heavy maintainer of any large libraries, but I really like the <b>boyscout rule</b>. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I ♥ a good onboarding readme with good example.</p>
+<p>Believer in agile software development, teamwork and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Steadily growing in people management and recently have gotten into WebAssembly.</p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DillonBaird/DillonBaird/master/Operating_system_rafiki_1.gif" width="360px"/>
 
