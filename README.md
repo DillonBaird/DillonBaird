@@ -14,11 +14,13 @@
 </p>
 
 <hr/>
-<p>15+ years of professional experience as a full-stack software developer across many differing industries.</p>
+<p>15+ years of professional experience as a <b>full-stack software developer</b> across many differing industries.</p>
 
-<p>Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Easily adapt to different hats (Lead, Full Stack Developer, UI/UX Designer, Systems Architect, QA Engineer, and much more) depending on what the project requires. I love exploring new tech stacks and leveraging them to build awesome things. </p>
+<p>Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Easily adapt to different hats (Lead, Full Stack Developer, UI/UX Designer, Systems Architect, QA Engineer, and much more) depending on what the project requires. I love <b>exploring new tech</b> and leveraging it to <b>build awesome things.</b></p>
 
-<p>Believer in agile software development, teamwork and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Steadily growing in people management and recently have gotten into WebAssembly.</p>
+<p>Believer in <b>agile</b> software development, <b>teamwork</b> and <b>clean code</b>. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Steadily growing in people <b>management</b> and recently have gotten into WebAssembly.</p>
+
+<p>I love open source. I am not a heavy maintainer of any large libraries, but I really like the <b>boyscout rule</b>. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I ♥ a good onboarding readme with good example.</p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DillonBaird/DillonBaird/master/Operating_system_rafiki_1.gif" width="360px"/>
 
@@ -27,7 +29,7 @@
 <br />
 
 - 😄 &nbsp; My Pronouns: He/Him
-- 🔭 &nbsp; I’m currently working as: Lead Software Engineer at [Inbrace](https://Inbrace.com)
+- 🔭 &nbsp; I’m currently working as: <b>Lead Software Engineer</b> at [Inbrace](https://Inbrace.com)
 - 🚀 &nbsp; Recently finished working on: [MUTANTdragon](https://MUTANTdragon.space)
 - 🌱 &nbsp; I’m currently learning: WebAssembly
 - 👨🏻‍💻 &nbsp; All of my projects are available at: [DillonBaird.io](https://DillonBaird.io)
@@ -35,7 +37,7 @@
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/operating-system/rafiki) and Figma I made: 👉
 - ⚡ &nbsp; Fun fact: **I work full-time onboard my boat [M/Y Antigua](https://motoryachtantigua.com)**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dillon-baird)
+- 📫 &nbsp; Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dillon-baird)
 <br />
 <h2 align="left">Languages, Frameworks and Tools</h2>
 <p><img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&amp;logo=teamcity&amp;logoColor=white" alt="TeamCity">
