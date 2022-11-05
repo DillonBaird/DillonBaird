@@ -18,7 +18,7 @@
 
 <p>Enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.</p>
 
-<p>Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Easily adapt to different hats (Lead, Full Stack Developer, UI/UX Designer, Systems Architect, QA Engineer, and much more) depending on what the project requires. I love exploring new tech and leveraging it to build awesome things.</p>
+<p>Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Easily adapt to different hats (Lead, Full Stack Developer, UI/UX Designer, Systems Architect, QA Engineer, and much more) depending on what the project requires. I love exploring new tech and leveraging it to build cool things.</p>
 
 <p>Believer in agile software development, teamwork and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Steadily growing in people management and recently have gotten into WebAssembly.</p>
 
@@ -26,10 +26,8 @@
 
 <h2 align="left">More About Me</h2>
 
-<br />
 
-- 😄 &nbsp; My Pronouns: He/Him
-- 🔭 &nbsp; I’m currently working as: <b>Lead Software Engineer</b> at [Inbrace](https://Inbrace.com)
+- 🔭 &nbsp; I’m currently working as: <b>Lead Software Engineer</b> at [Inbrace](https://Inbrace.com) building things with some awesome people.
 - 🚀 &nbsp; Recently finished working on: [MUTANTdragon](https://MUTANTdragon.space)
 - 🌱 &nbsp; I’m currently learning: WebAssembly
 - 👨🏻‍💻 &nbsp; All of my projects are available at: [DillonBaird.io](https://DillonBaird.io)
