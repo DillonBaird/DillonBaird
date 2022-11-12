@@ -3,15 +3,15 @@
 <h5 align="center">Attempting To Make The World A Better Place, One Line Of Code At A Time</h5><br/>
 
 <p align="center">
-  <a href="https://dillonbaird.io">Website</a> •
-  <a href="https://linkedin.com/in/dillon-baird">LinkedIn</a> •
-  <a href="https://medium.com/@dillonbaird">Medium</a> •
-  <a href="https://twitter.com/dillonmbaird">Twitter</a> •
-  <a href="https://www.npmjs.com/~dillonbaird">NPM</a>
+  <a target="_blank" href="https://dillonbaird.io">Website</a> •
+  <a target="_blank" href="https://linkedin.com/in/dillon-baird">LinkedIn</a> •
+  <a target="_blank" href="https://medium.com/@dillonbaird">Medium</a> •
+  <a target="_blank" href="https://twitter.com/dillonmbaird">Twitter</a> •
+  <a target="_blank" href="https://www.npmjs.com/~dillonbaird">NPM</a>
   <br /><br/>
   <img src="https://komarev.com/ghpvc/?username=dillonbaird&label=Profile%20views&color=0e75b6&style=flat" alt="dillonbaird" />
   <br/>
-  <a href="https://twitter.com/dillonmbaird" target="blank"><img src="https://img.shields.io/twitter/follow/dillonmbaird?logo=twitter&style=for-the-badge" alt="dillonmbaird" /></a>
+  <a target="_blank" href="https://twitter.com/dillonmbaird" target="blank"><img src="https://img.shields.io/twitter/follow/dillonmbaird?logo=twitter&style=for-the-badge" alt="dillonmbaird" /></a>
 </p>
 
 <hr/>
