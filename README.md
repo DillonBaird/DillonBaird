@@ -6,7 +6,8 @@
   <a href="https://dillonbaird.io">Website</a> •
   <a href="https://linkedin.com/in/dillon-baird">LinkedIn</a> •
   <a href="https://medium.com/@dillonbaird">Medium</a> •
-  <a href="https://twitter.com/dillonmbaird">Twitter</a>
+  <a href="https://twitter.com/dillonmbaird">Twitter</a> •
+  <a href="https://www.npmjs.com/~dillonbaird">NPM</a>
   <br /><br/>
   <img src="https://komarev.com/ghpvc/?username=dillonbaird&label=Profile%20views&color=0e75b6&style=flat" alt="dillonbaird" />
   <br/>
