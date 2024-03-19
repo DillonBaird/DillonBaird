@@ -15,7 +15,7 @@
 </p>
 
 <hr/>
-<p>17+ years of professional experience as a <b>full-stack software engineer</b> across many differing industries.</p>
+<p>19+ years of professional experience as a <b>full-stack software engineer</b> across many differing industries.</p>
 
 <p>Enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.</p>
 
